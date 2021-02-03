@@ -1,0 +1,17 @@
+# dev files
+webpack.config.js
+.babelrc
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# dotenv environment variables file
+.env
+.env.test
+
+# Output of 'npm pack'
+*.tgz
+
+# Optional npm cache directory
+.npm

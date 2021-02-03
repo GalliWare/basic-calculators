@@ -1,0 +1,19 @@
+{
+  "name": "react-calculator",
+  "version": "0.0.1",
+  "description": "This is a calculator application build with the react framework",
+  "private": "true",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "start": "",
+    "build": ""
+  },
+  "author": "Craig Gallimore",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
