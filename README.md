@@ -1,6 +1,6 @@
 # Calculator built on the React framework
 
-Using the below technologies to create a basic calculator app. 
+Using the below technologies to create a basic calculator app.
 
 ## Technologies
 
