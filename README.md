@@ -1,6 +1,6 @@
-:heavy_check_mark: Done
-
 # Calculator built on the React framework
+
+:heavy_check_mark: Done
 
 Using the below technologies to create a basic calculator app.
 
